@@ -61,7 +61,6 @@
     "npm-run-all": "^4.0.2",
     "react": "^15.6.0",
     "react-dom": "^15.6.0",
-    "prop-types": "^15.6.0",
     "uglifyjs": "^2.4.10",
     "watchify": "^3.8.0"
   },
